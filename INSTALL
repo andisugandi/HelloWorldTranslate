@@ -1,0 +1,10 @@
+HelloWorldTranslate INSTALL
+===================
+Andi Sugandi <dev@andisugandi.id>
+:website: http://andisugandi.id
+
+HelloWorldTranslate cannot be installed, yet.
+However, it can compile to a binary by doing:
+
+qmake
+make

@@ -9,3 +9,8 @@ TEMPLATE = app
 
 SOURCES += main.cpp
 TRANSLATIONS = trans_id.ts
+
+DISTFILES += \
+    COPYING \
+    README.md \
+    INSTALL
