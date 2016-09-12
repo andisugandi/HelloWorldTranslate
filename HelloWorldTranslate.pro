@@ -13,4 +13,4 @@ TRANSLATIONS = trans_id.ts
 DISTFILES += \
     COPYING \
     README.md \
-    INSTALL
+    INSTALL.md
