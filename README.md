@@ -12,4 +12,4 @@ This app is built based on the lesson at [Pluralsight's Introduction to Qt: A C+
 Installation
 ------------
 
-See [Installation] (INSTALL.md)
+See [Installation](INSTALL.md)
